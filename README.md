@@ -23,7 +23,7 @@ This is a click and shoot game where targets randomly appear on screen and playe
 
 ## Outcomes
 Ideal Outcome:
-- A click and shoot game that lasts for 1 minute with a countdown that displays the timer. Targets spawn randomly in different locations and disappear after 2 seconds or after it’s clicked by the player and grants 1 point if the target is hit and displays the current player score to keep track of the player score. The game ends after 60 seconds and displays a game over screen, the player score, and the play again button.
+- A click and shoot game that lasts for 60 seconds with a countdown that displays the timer. Targets spawn randomly in different locations and disappear after 2 seconds or after it’s clicked by the player and grants 1 point if the target is hit and displays the current player score to keep track of the player score. The game ends after 60 seconds and displays a game over screen, the player score, and the play again button.
 
 Minimal Viable Outcome:
 - Briefly describe the bare essential for a good working outcome?
