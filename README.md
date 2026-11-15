@@ -3,7 +3,7 @@ Click and Shoot Game
 # Title
 Shoot the Targets
 ## Repository
-<Link to your project's public GitHub respository>
+https://github.com/Chrischoi982/Final-Project
 
 ## Description
 This is a click and shoot game where targets randomly appear on screen and players will have 60 seconds to shoot as many targets to score the highest possible points they can achieve. It’s relevant to media and digital arts because it allows people to interact with the game using mouse clicks and uses shapes, colors, and text to create the visual design. 
